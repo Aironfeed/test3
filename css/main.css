@@ -78,12 +78,12 @@ button{
 }
 button:hover{
     background-color: red;
-    color: black;
+    color: white;
 }
 button:focus{
     outline: none;
     background-color: red;
-    color: black;
+    color: white;
 }
 h1{
    background-color: #40E0D0;
