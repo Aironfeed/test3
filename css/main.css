@@ -77,11 +77,11 @@ button{
     margin-right: auto;
 }
 button:hover{
-    background-color: #00CED1;
+    background-color: #f20e1f;
 }
 button:focus{
     outline: none;
-    background-color: #00CED1;
+    background-color: #f20e1f;
 }
 h1{
    background-color: #40E0D0;
